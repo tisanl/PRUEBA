@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1652063781 source:c:\proyectos\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayPassengers.h"
+	"Validaciones.h"
+
+1652130798 source:c:\proyectos\tp 2\arraypassengers.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayPassengers.h"
+	"Validaciones.h"
+
+1652062729 c:\proyectos\tp 2\arraypassengers.h
+
+1652058875 c:\proyectos\tp 2\validaciones.h
+
+1652058885 source:c:\proyectos\tp 2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Validaciones.h"
+	"ArrayPassengers.h"
+
